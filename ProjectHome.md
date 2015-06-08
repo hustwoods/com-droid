@@ -1,0 +1,1 @@
+Project to develop just another tool to let your droid communicate with a PC. Write or browse messages, view call history or show the current battery state.
